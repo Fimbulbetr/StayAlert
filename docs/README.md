@@ -9,9 +9,9 @@
 Now working on :
 
 - loadBookBag
- - [setBookData](/../../engine/item/src/setBookData.c)
-  - [linkBookAction](/../../engine/item/src/setBookData.c)
-   - [readBook]()
+ - setBookData
+  - linkBookAction
+   - readBook
 
 *[Note]* :
-	If you want to run the executable, **you must have the same resources files**, *PATH*s are available in [configuration files](/../../config)
+	If you want to run the executable, **you must have the same resources files**, *PATH*s are available in configuration files.
